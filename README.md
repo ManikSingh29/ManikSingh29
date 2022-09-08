@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manik Singh</h1>
-<h3 align="center">Someone who is extremely enthusiastic about the most recent and cutting-edge technological developments. At NIT Hamirpur, I intend to become more knowledgeable about cutting-edge technologies and to develop both as an engineer and as a person by working with them.h</h3>
+<h3 align="center">Someone who is extremely enthusiastic about the most recent and cutting-edge technological developments. At NIT Hamirpur, I intend to become more knowledgeable about cutting-edge technologies and to develop both as an engineer and as a person by working with them.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maniksingh29&label=Profile%20views&color=0e75b6&style=flat" alt="maniksingh29" /> </p>
 
