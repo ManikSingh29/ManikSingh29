@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [IOT-based-Smart-Irrigation-Solution](https://github.com/ManikSingh29/IOT-based-Smart-Irrigation-Solution.git)
 
-- 🌱 I’m currently learning **JavaScript,Nodejs,MongoDB**
+- 🌱 I’m currently learning **Machine Learning with Python**
 
 - 💬 Ask me about **Java,Mysql,Internet Of Things, Arduino**
 
